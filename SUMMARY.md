@@ -6,5 +6,6 @@
 * [Articles of Incorporation](articles-of-incorporation.md)
 * [Bylaws](bylaws.md)
 * [Budget](budget.md)
-* License
+* [License](license.md)
+* [Bylaw Resources](dsjkfkja.md)
 
