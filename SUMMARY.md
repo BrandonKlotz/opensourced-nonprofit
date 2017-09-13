@@ -7,5 +7,5 @@
 * [Bylaws](bylaws.md)
 * [Budget](budget.md)
 * [License](license.md)
-* [Bylaw Resources](dsjkfkja.md)
+* [Bylaw Resources](bylaw-resources.md)
 
