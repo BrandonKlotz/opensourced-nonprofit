@@ -60,6 +60,7 @@ If you’re looking to start a Michigan nonprofit organization, you’re in the 
   **Document Examples from Citizen Labs**
 
 * [Articles of Incorporation](https://github.com/citizenlabsgr/opensourced-nonprofit/blob/master/articles-incorporation.md)
+
 * [Bylaws](https://github.com/citizenlabsgr/opensourced-nonprofit/blob/master/bylaws.md)
 
 
